@@ -10,11 +10,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -33,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-CC1nDL2WZM)
-- Live Site URL: [NFT Preview Card](https://your-live-site-url.com](https://meantoes.github.io/NFT-Preview-Card/)
+- Live Site URL: [NFT Preview Card](https://meantoes.github.io/NFT-Preview-Card/)
 
 ## My process
 
